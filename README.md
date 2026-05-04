@@ -7,7 +7,10 @@ A car needs an oil change if **either** of the following is true:
 - It’s been **more than 6 months** since the last oil change.
 
 ## Setup instructions
-
+- Once you have the app downloaded
+- In the terminal
+- Run php artisan migrate
+- Run composer run dev
 
 ## Vehikl
 
